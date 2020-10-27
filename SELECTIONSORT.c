@@ -8,10 +8,7 @@ int main()
  for(i=0;i<count;i++)
  {
  scanf("%d",&number[i]);
-ASHWINI KUMAR
-1906171
-CSL3401 LAB
-BTECH-CSE
+
  }
  for(i=0;i<count;i++)
  {
