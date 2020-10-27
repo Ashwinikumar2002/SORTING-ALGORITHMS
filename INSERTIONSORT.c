@@ -10,10 +10,7 @@ int main()
  for (c = 1 ; c <= n - 1; c++) {
  t = array[c];
  for (d = c - 1 ; d >= 0; d--) {
-ASHWINI KUMAR
-1906171
-CSL3401 LAB
-BTECH-CSE
+
  if (array[d] > t) {
  array[d+1] = array[d];
  flag = 1;
