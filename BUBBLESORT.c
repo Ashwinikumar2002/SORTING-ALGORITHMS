@@ -10,10 +10,7 @@ int main()
  for (c = 0 ; c < n - 1; c++)
  {
  for (d = 0 ; d < n - c - 1; d++)
-ASHWINI KUMAR
-1906171
-CSL3401 LAB
-BTECH-CSE
+
  {
  if (array[d] > array[d+1])
  {
